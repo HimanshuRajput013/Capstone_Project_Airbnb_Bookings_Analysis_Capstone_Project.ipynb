@@ -2,6 +2,7 @@
 ![image](https://github.com/HimanshuRajput013/Capstone_Project_Airbnb_Bookings_Analysis_Capstone_Project.ipynb/assets/131947510/dcb0a6c5-fb1d-4d36-848b-df328425ab58)
 
 ##Table of Contents
+
 1.Introduction to Airbnb
 2.About the Dataset
 3.Python Libraries Used
@@ -24,17 +25,26 @@ The dataset comprises information on Airbnb bookings in New York City for the ye
 
 ## Python Libraries Used for the EDA
 Pandas
+
 NumPy
+
 Matplotlib.Pyplot
+
 Seaborn
 
 ## Project Workflow
 Importing Libraries
+
 Loading the Dataset
+
 Exploring the Dataset
+
 Data Cleaning and Manipulation
+
 Handling Outliers
+
 Data Visualization
+
 Conclusion
 
 ## Purpose of the Analysis
